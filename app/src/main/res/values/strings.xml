@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">testeteste2020</string>
+
+    <string name="app_name">Gerenciador De Tarefas</string>
+    <!-- TODO: string do fragmento 1 -->
+    <string name="bem_vindo">Bem-vindo!</string>
+    <string name="list_view">ListView:</string>
+    <string name="use">Use</string>
+    <string name="entenda">Entenda</string>
+    <string name="aprenda">Aprenda</string>
+
+    <!-- TODO: string do fragmento 2 -->
+    <string name="metas_para_a_minha_semana">METAS PARA A MINHA SEMANA :</string>
+    <string name="nova_tarefa">Nova Tarefa</string>
+    <string name="adicionar_tarefa">Adicionar Tarefa</string>
+    <string name="gerenciamento_de_tarefas">Gerenciamento de tarefas</string>
+
+
+    <string name="todo_title">Bienvenido</string>
+    <string name="todo_categories">Categorías:</string>
+    <string name="todo_tasks">Tareas:</string>
+
+    <string name="todo_dialog_add_task">Añade la tarea</string>
+    <string name="todo_dialog_category_business">Negocios</string>
+    <string name="todo_dialog_category_other">Otros</string>
+    <string name="todo_dialog_category_personal">Personal</string>
+    <string name="todo_dialog_add_task_button">Crear tarea</string>
 </resources>
